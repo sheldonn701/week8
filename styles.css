@@ -1,0 +1,14 @@
+.nav {
+    font-size: 25px;
+
+}
+
+#contact {
+    font-size: 25px;
+    font-weight: 999;
+    font-family:'Times New Roman', Times, serif
+}
+
+*{
+    background-color: darkgrey;
+}
